@@ -1,8 +1,7 @@
 
 ### Hi there 👋, I am Tabassum Chowdhury 
 #### Certified Ethical Hacker | Cybersecurity Expert | CTF player| Programmer
-![Certified Ethical Hacker | Cybersecurity Expert | CTF player| Programmer]
-(https://tabassumkatha.000webhostapp.com/img/tabassum-removebg-preview.png)
+![Certified Ethical Hacker | Cybersecurity Expert | CTF player| Programmer](https://tabassumkatha.000webhostapp.com/img/tabassum-removebg-preview.png)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tabasssum26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tabassum-chowdhury/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tabassumkatha.000webhostapp.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@tabassumkatha56)  
