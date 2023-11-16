@@ -4,7 +4,7 @@
 
 I am Tabassum Chowdhury, currently studying BSc in Computer Science and Engineering. With two years of hands-on experience in the field of cybersecurity, I bring a strong foundation in safeguarding digital environments and mitigating cyber threats. My passion lies in protecting digital assets and fostering a culture of cybersecurity awareness. I am committed to continuous learning and am eager to contribute to your organization's security goals.
 
-Skills: Cybersecurity | Vulnerability Assessment | Security Testing Tools (Burp Suite, Metasploit, etc.) | Operating System Security (Windows, Linux, parrot, etc.)| Social Engineering Awareness| Cryptography and Encryption |Penetration Testing | Html |CSS | Python|Javascript Digital Forensics| 
+Skills: Cybersecurity | Vulnerability Assessment |Digital forensic| Security Testing Tools (Burp Suite, Metasploit, etc.) | Operating System Security (Windows, Linux, parrot, etc.)| Social Engineering Awareness| Cryptography and Encryption |Penetration Testing | Html |CSS | Javascript | Python
 
 - 🔭 I’m currently working on Secure Test Dynamics (vulnerability management and penetration) 
 - 🌱 I’m currently learning Javascript  
